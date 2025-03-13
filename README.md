@@ -120,3 +120,4 @@ This project serves as a strong foundation for developing more complex expressio
 By continuously refining and extending this project, it can serve as an educational tool, a robust arithmetic solver, and a stepping stone for implementing more advanced programming language parsers.
 Future enhancements and optimizations will only make it more versatile, bridging the gap between simple calculators and full-fledged expression evaluators!
   OUTPUT 
+  ![Image](https://github.com/user-attachments/assets/98eb5ba4-019f-4892-871c-6796e98ff1a0)
